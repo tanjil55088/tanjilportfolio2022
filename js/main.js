@@ -73,7 +73,7 @@ $(document).ready( function() {
     // HOME TYPED JS
      $(function(){
       $(".element").typed({
-        strings: ["Md. Asaduzzaman Tanjil", "Web Developer",],
+        strings: ["Md. Asaduzzaman Tanjil", "WordPress Developer",],
         typeSpeed: 10,
         loop:true,
         backDelay: 2000
